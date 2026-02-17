@@ -1,0 +1,5 @@
+{
+  "name": " Uber MERN Replication",
+  "description": "A high-fidelity Uber replication using React (JSX), Node.js, Express, and MongoDB patterns with Gemini AI travel assistance and persistent history.",
+  "requestFramePermissions": []
+}
